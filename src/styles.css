@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "tailwindcss";
+
+@keyframes spinY {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
